@@ -18,18 +18,4 @@ Next T lines each contain a number 'n' denoting the number of elements, followed
 Output Format
 T lines each contain n numbers denoting the cumulative sum of the respective indices.
 
-Sample Input
-3
-4 1 2 3 4
-5 1 1 1 1 1
-5 1 3 5 7 9
-Expected Output
-1 3 6 10
-1 2 3 4 5
-1 4 9 16 25
-Constraints
-0 <= T <= 1000
 
-1 <= N <= 10000
-
--104 <= array element <= 104
