@@ -16,5 +16,7 @@ Sample Input
 11 4 200
 
 Expected Output
+
 1 2 3 4 5
+
 4 11 200
