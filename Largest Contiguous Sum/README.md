@@ -84,4 +84,3 @@ Array: [4 -6 2 5]
 
 Answer: 7
 
-Answer: 7
